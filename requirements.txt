@@ -1,0 +1,11 @@
+langchain_community
+tiktoken
+langchainhub
+chromadb
+langchain
+langchain-openai
+python-dotenv
+ipykernel
+bs4
+langchain_groq
+langchain_huggingface
